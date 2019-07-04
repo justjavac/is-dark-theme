@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true
+  }
+}

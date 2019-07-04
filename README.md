@@ -1,4 +1,4 @@
-# is-dark
+# is-dark-theme
 
 > Detect if the user has requested the system use a light or dark color theme.
 

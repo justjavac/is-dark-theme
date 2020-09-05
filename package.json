@@ -1,6 +1,6 @@
 {
   "name": "is-dark-theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Detect if the user has requested the system use a light or dark color theme",
   "main": "./dist/index.js",
   "jsnext:main": "index.js",
